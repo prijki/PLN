@@ -1,6 +1,6 @@
 # PLN-Text-Summarization
 
-Este repositório reúne projetos de **Processamento de Linguagem Natural (PLN)** desenvolvidos em Python, com foco em técnicas de pré-processamento, análise e sumarização automática de textos.
+Este repositório reúne projetos de **Processamento de Linguagem Natural (PLN)** desenvolvidos em Python, com foco em técnicas de pré-processamento, análise e sumarização automática de textos, além de chatbots com análise de sentimento.
 
 ## Sobre o projeto
 
